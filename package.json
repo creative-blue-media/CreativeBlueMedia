@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/creative-blue-media/CreativeBlueMedia/issues"
   },
-  "homepage": "https://github.com/creative-blue-media/CreativeBlueMedia#readme"
+  "homepage": "https://github.com/creative-blue-media/CreativeBlueMedia#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
