@@ -1,0 +1,19 @@
+{
+  "name": "cbmvue",
+  "version": "1.0.0",
+  "description": "Vue Company Website",
+  "main": "vue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creative-blue-media/CreativeBlueMedia.git"
+  },
+  "author": "Carla, Andrew, Aliff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creative-blue-media/CreativeBlueMedia/issues"
+  },
+  "homepage": "https://github.com/creative-blue-media/CreativeBlueMedia#readme"
+}
