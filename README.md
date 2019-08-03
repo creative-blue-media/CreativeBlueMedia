@@ -1,7 +1,7 @@
 # Creative Blue Media
 
-858 285 5586
-hello@creativeblue.media
+858 285 5586 <br>
+hello@creativeblue.media <br>
 https://www.creativeblue.media/
 
 ## Project setup
