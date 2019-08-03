@@ -1,5 +1,9 @@
 # Creative Blue Media
 
+858 285 5586
+hello@creativeblue.media
+https://www.creativeblue.media/
+
 ## Project setup
 ```
 npm install
