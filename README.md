@@ -1,4 +1,4 @@
-# creativebluemedia
+# Creative Blue Media
 
 ## Project setup
 ```
